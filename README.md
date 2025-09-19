@@ -24,7 +24,23 @@ El curso **Power BI** de Coderhouse tuvo una duración de **5 semanas (18 horas)
 
 El dashboard se organiza en diferentes vistas para analizar **ventas y rentabilidad** según ciudad, periodo y medio de pago.  
 
-### 🔹 1. Overview  
+### 🔹 1. Portada  
+![Portada](Dashboard/portada.png)  
+
+Pantalla inicial del dashboard que permite navegar entre las diferentes secciones (**Overview** y **Ventas**).  
+
+---
+
+## 🚀 Tecnologías utilizadas  
+
+- **Power BI Desktop**  
+- **Lenguaje DAX** para medidas y KPIs  
+- **Mapas y visualizaciones interactivas**  
+- **GitHub** para versionado y publicación del proyecto  
+
+---
+
+### 🔹 2. Overview  
 ![Overview](Dashboard/Overview.png)  
 
 - **Indicadores clave (KPI):**  
@@ -49,7 +65,7 @@ El dashboard se organiza en diferentes vistas para analizar **ventas y rentabili
 
 ---
 
-### 🔹 2. Ventas  
+### 🔹 3. Ventas  
 ![Ventas](Dashboard/Ventas.png)  
 
 - **Total de ventas por ciudad:**  
@@ -67,22 +83,6 @@ El dashboard se organiza en diferentes vistas para analizar **ventas y rentabili
 
 - **Mapa geográfico:**  
   - Concentración de ventas en el **centro y litoral argentino**.  
-
----
-
-### 🔹 3. Portada  
-![Portada](Dashboard/portada.png)  
-
-Pantalla inicial del dashboard que permite navegar entre las diferentes secciones (**Overview** y **Ventas**).  
-
----
-
-## 🚀 Tecnologías utilizadas  
-
-- **Power BI Desktop**  
-- **Lenguaje DAX** para medidas y KPIs  
-- **Mapas y visualizaciones interactivas**  
-- **GitHub** para versionado y publicación del proyecto  
 
 ---
 
